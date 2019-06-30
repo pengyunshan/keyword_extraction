@@ -1,0 +1,10 @@
+*.docx
+*.pdf
+*.pptx
+*.log
+*.zip
+*.caj
+paper
+*.txt
+*.pkl
+__pycache__
